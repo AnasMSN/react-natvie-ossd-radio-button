@@ -1,0 +1,28 @@
+{
+  "name": "react-natvie-ossd-radio-button",
+  "version": "1.0.0",
+  "description": "Customizable React Native Radio Button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"react native radio button start\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnasMSN/react-natvie-ossd-radio-button.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "radio",
+    "button"
+  ],
+  "author": "AnasMSN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnasMSN/react-natvie-ossd-radio-button/issues"
+  },
+  "homepage": "https://github.com/AnasMSN/react-natvie-ossd-radio-button#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.56.0"
+  }
+}
